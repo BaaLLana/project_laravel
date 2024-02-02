@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Laravel</title>
-
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis laudantium voluptatem neque sequi ullam assumenda tenetur. Esse dolorum consequatur excepturi atque, delectus cumque deserunt saepe perferendis odio velit beatae quaerat!
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
